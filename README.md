@@ -1,4 +1,5 @@
 Vaidya
+
 Built this for my mother. She gets medical reports. She cannot understand them. Neither can most people who didn't go to medical school.
 Most health apps assume you already know what you're looking at. Vaidya assumes you don't.
 
